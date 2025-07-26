@@ -1,5 +1,10 @@
 package ru.mirea.lab1;
-
+/*
+git add .
+git commit -m "Ваш комментарий"
+git pull origin main
+git push origin main
+ */
 import java.util.Scanner;
 
 public class Task3 {
