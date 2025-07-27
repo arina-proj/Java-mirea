@@ -1,4 +1,7 @@
-package ru.mirea.lab4.task4;
+package ru.mirea.lab6.task10;
+
+
+
 enum ComputerBrand {
     ASUS,
     DELL,
@@ -8,6 +11,7 @@ enum ComputerBrand {
     ACER,
     CUSTOM
 }
+
 
 public class Computer {
     private ComputerBrand brand;

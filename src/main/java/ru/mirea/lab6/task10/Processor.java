@@ -1,13 +1,11 @@
-package ru.mirea.lab4.task4;
-
-
+package ru.mirea.lab6.task10;
+enum ProcessorBrand {
+    INTEL,
+    AMD,
+    APPLE_SILICON,
+    QUALCOMM
+}
 public class Processor {
-    public enum ProcessorBrand {
-        INTEL,
-        AMD,
-        APPLE_SILICON,
-        QUALCOMM
-    }
     private ProcessorBrand brand;
     private String model;
     private double clockSpeed; // в GHz
